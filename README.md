@@ -1,4 +1,4 @@
-- 👋 Hi there, This is Shreyas looking forward for an oppurtunity to apply my skils and work on it.
+- 👋 Hi there, This is Shreyas looking forward for an oppurtunity to apply  and enhance my skills and work on it.
 
 - 👀 I’m interested in Data Science, Business Analytics and Machine learning in high learning environment.
 - 🌱 I’m currently learning Python, Machine learning , Tableau and MYSQL.
