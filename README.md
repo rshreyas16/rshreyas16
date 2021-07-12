@@ -1,6 +1,6 @@
 - 👋 Hi there, This is Shreyas looking forward for an oppurtunity to apply my skils and work on it.
 
-- 👀 I’m interested in Data Science, Buisness Analytics and Machine learning in high learning environment.
+- 👀 I’m interested in Data Science, Business Analytics and Machine learning in high learning environment.
 - 🌱 I’m currently learning Python, Machine learning , Tableau and MYSQL.
 
 -    I have worked on Aerospace 3D CAD modelling and  have good experience  in FEA Analysis.
